@@ -1,2 +1,3 @@
-# tnschools.gov.in-textbooks
-Tamil Nadu Education Textbooks Review and Suggestions
+# Tamil Nadu Textbooks Reviews and Suggestions
+
+All Tamilnadu Textbooks for schools could be downloaded from here: http://tnschools.gov.in/textbooks
